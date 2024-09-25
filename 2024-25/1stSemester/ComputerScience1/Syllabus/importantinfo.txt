@@ -1,0 +1,35 @@
+Course Title: CS1210: Computer Science I: Fundamentals
+...come to class...do the work...ask for help...
+Term: Fall 2024
+Time: 8:30am - 9:20am MWF
+Location: 100 Phillips Hall
+Department: Computer Science
+Instructor: Alberto Maria Segre
+14G MacLean Hall
+alberto-segre@uiowa.edu
+Office Hours: 9:30-11:00 Fridays (or by appointment)
+
+2:00pm - 3:15pm T Amy Gilhoi
+301 MLH amy-gilhoi@uiowa.edu
+
+Amy Gilhoi 10:00 AM - 12:00 PM Thursdays
+314 MLH 12:30 PM - 2:30 PM Fridays
+
+Grading Breakdown:
+Question of the Day (QotD: 5%): your final QotD grade is reported as the percentage of correct QOTDs after dropping the lowest 25% of your QotD scores
+Lab assignments(Labs: 14%): your final laboratory grade is computed after dropping your three lowest laboratory assignment scores 
+Homework assignments (HWs: 15%): There will be 2 (or possibly 3 smaller) multi-week homework assignments consisting of larger programming projects 
+         important: homework assignments will be due Friday at midnight. Late assignments will be accepted until Sunday at midnight, late 75%   cap
+Midterm exams (Ex: 18% each):
+Final exam (Final: 30%): 
+
+This course uses letter grades. Because CLAS discourages the use of norms-referenced grading (the
+"curve"), we will adopt a standard (A:90-100, B:80-89.99, C:70-79.99, D:60-69.99, F:0-59.99) grading
+scale. Plus/minus grades will be awarded sparingly at the instructor’s discretion to recognize those with
+exceptional performance or who are unnervingly close to the cusp. Note that, because it is sometimes
+hard to predict class performance on challenging material, the standard CLAS scale may result in
+unreasonably low letter grades. We will therefore have three "true-ups" over the course of the term: once
+after each midterm, and a final "true-up" at end of term. A "true-up" is an opportunity for me to lower
+(never raise) the cutoffs based on the grade distribution so far: thus each "true-up" can only improve your
+letter grade, never make it worse.
+                           

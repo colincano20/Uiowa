@@ -20,7 +20,7 @@
 # identifiers as the hawkid values).
 #
 def signed():
-    return(["hawkid1","hawkid2"])
+    return(["qtrn","cmcano"])
 
 ######################################################################
 # In this lab, you'll be working on 5 reasonably straightforward short
@@ -58,7 +58,7 @@ def signed():
 # Note: Be concise: your solution should not use an if statement.
 #
 def chainIf(s1, s2):
-    pass
+    return((s1 in s2 and s1) or s1 + s2)
 
 ######################################################################
 # Problem 2
@@ -71,7 +71,7 @@ def chainIf(s1, s2):
 # Examples:
 #   >>> L
 #   [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-#   >>> skipZip(L, 7)
+#   >>>skipZip(L, 7)
 #   >>> L
 #   [0, 1, 2, 3, 4, 5, 6, 0, 8, 0]
 #   >>> skipZip(L, 1)
@@ -79,7 +79,9 @@ def chainIf(s1, s2):
 #   [0, 0, 2, 0, 4, 0, 6, 0, 8, 0]
 #
 def skipZip(L, i):
-    pass
+    L[i::2] = [0] * len(L[i::2])
+   
+
 
 ######################################################################
 # Problem 3
@@ -91,7 +93,8 @@ def skipZip(L, i):
 # Examples:
 #
 def skipZipLtd(L, i, j, k):
-    pass
+    L[i:j:k] = [0] * len(L[i:j:k])
+  
 
 ######################################################################
 # Problems 4
@@ -131,11 +134,12 @@ def skipZipLtd(L, i, j, k):
 # class.
 #
 def negate(n):
-    pass
+    return(-n)
 
 # The second part of your solution is the skipFlip(L, i, j, k)
 # part. Here, you should in part be inspired by skipZipLtd(L, i, j,
 # k), but you will also use map(negate, ____ ) to modify L.
 #
 def skipFlip(L, i, j, k):
-    pass
+    L[i:j:k] = map(negate, L[i:j:k])
+   

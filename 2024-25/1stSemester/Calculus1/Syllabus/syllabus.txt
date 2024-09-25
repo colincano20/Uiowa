@@ -1,0 +1,388 @@
+The University of Iowa
+The College of Liberal Arts and Sciences
+
+Fall 2024
+
+ 
+
+Title of Course: MATH:1850:0CCC  Calculus I
+
+                           MATH:1850:0EEE  Calculus I
+
+Course meeting time and place:
+
+                           MATH:1850:0CCC ---  MWF    1:30 – 2:20 AM in 118 MLH
+
+                           MATH:1850:0EEE --- MWF 10:30 – 11:20 AM in 40 SH
+
+
+Department of Mathematics: https://math.uiowa.edu/Links to an external site.
+
+ 
+
+Course ICON site: To access the course site, log into Iowa Courses Online (ICON)Links to an external site. using your Hawk ID and password.
+
+ 
+
+Course Home
+
+The College of Liberal Arts and Sciences (CLAS) is the home of this course, and CLAS governs the add and drop deadlines, academic misconduct policies, and other undergraduate policies and procedures. Other UI colleges may have different policies.
+
+ 
+
+Instructor Contact Information
+
+Hao Fang
+Office location: 25 K MLH.  Phone: 319-335-0772. 
+
+E-mail: hao-fang@uiowa.edu
+
+ 
+
+ 
+
+Office hours:   MWF11:30 -12:20
+
+Student drop-in hours: Students are invited to drop by during these hours to discuss questions about the course material or concerns. I am also available by appointment if you are unable to attend my drop-in hours
+
+ 
+
+Departmental Executive Officer (DEO): 
+
+Prof. Ryan Kinser, 14A MLH, ryan-kinser@uiowa.edu.
+
+The DEO is responsible for supervising the delivery of courses in their department.
+
+ 
+
+Course TAs
+
+ 
+
+·      Math:1850:0C01 (TTh 8:30-9:20 AM in 105 MLH) Ying Liu
+
+Office Hour: 9:30-10:30 AM in 325C MLH
+
+·      Math:1850:0C02 (TTh 11:00-11:50 AM in 113 MLH) Juan Felipe Ariza Mejia
+
+Office Hour: 12:00pm-1:00pm (or by appointment) in 1K MLH
+
+·      Math:1850:0E01 (TTh 9:30-10:20 AM in 205 MLH) Kit Rynaardt
+
+·      Math:1850:0E02 (TTh 5:00-5:50 PM in 75 SH) Kit Fynaardt
+
+Description of Course
+
+This is a standard first semester course in Calculus. The sequence MATH:1850 - MATH:1860 is one of the basic entry-level mathematics courses for students in the mathematical and physical sciences. Topics include fundamental concepts, limits, methods and techniques of differential calculus of a single variable (including power, product, quotient and chain rules; extreme values, graphing, optimization, implicit differentiation, related rates); definite and indefinite integrals, substitution rule, Fundamental Theorem of Calculus; applications including areas, and volumes. The students should expect the material to be covered at two to three times the pace in high schools. Students are expected to attend class and read the textbook for comprehension.   Examinations will cover the material discussed in class as well as assigned material from the text that is not discussed in class.
+
+ 
+
+Learning Objectives 
+
+The main goal of this class is to introduce several fundamental concepts in calculus such as limits, derivatives, and integrals. The course emphasizes both the theoretical aspects of these notions as well as a wide range of applications to other sciences including engineering and economics. The students completing this course will be able to apply these concepts to real life problems that often arise in the natural sciences (e.g., optimization problems, modeling of various phenomena in physics, biology, astronomy etc.). The students will be prepared for the second semester of calculus. The course is designed to be a half-year course; it is not, in general, recommended that student plan to take MATH:1850 and not MATH:1860. This course is also the building block for several subsequent math courses.
+
+ 
+
+Academic Honesty and Misconduct
+
+All students in CLAS courses are expected to abide by the college’s standards of academic honestyLinks to an external site.. Undergraduate academic misconduct must be reported by instructors to CLAS according to these proceduresLinks to an external site.. Graduate academic misconduct must be reported to the Graduate College according to Section F of the Graduate College ManualLinks to an external site..
+
+ 
+
+Student collaboration is NOT permitted on exams and NOT permitted on quizzes.
+
+Any attempt to collaborate during tests will result in a 0 score on that test.
+
+ 
+
+ 
+
+Student Complaints
+
+Students with a complaint about a grade or a related matter should first discuss the situation with the instructor and/or the course supervisor (if applicable), and finally with the DEO (Chair) of the department, school or program offering the course. Sometimes students will be referred to the department or program’s Director of Undergraduate Studies (DUS) or Director of Graduate Studies (DGS).
+
+ 
+
+Undergraduate students should contact CLAS Undergraduate ProgramsLinks to an external site. for support when the matter is not resolved at the previous level. Graduate students should contact the CLAS Dean’s OfficeLinks to an external site. when additional support is needed.
+
+ 
+
+Drop Deadline for this Course
+
+You may drop an individual course before the drop deadline; after this deadline you will need collegiate approval. You can look up the drop deadline for this course hereLinks to an external site.. When you drop a course, a “W” will appear on your transcript. The mark of “W” is a neutral mark that does not affect your GPA. To discuss how dropping (or staying in) a course might affect your academic goals, please contact your Academic Advisor. Directions for adding or dropping a course and other registration changes can be found on the Registrar’s websiteLinks to an external site.. Undergraduate students can find policies on dropping CLAS courses hereLinks to an external site.. Graduate students should adhere to the academic deadlinesLinks to an external site. and policies set by the Graduate College.
+
+ 
+
+Textbook/Materials
+
+The required textbook(s) for this course are:
+
+·      Title: Single Variable Calculus, Early Transcendentals
+
+·      ISBN: 978-0-357-02226-9
+
+·      Author: James Stewart, Daniel Clegg & Saleem Watson
+
+·      Publisher: Cengage Learning
+
+·      Copyright Year: 2020 (edition 9)
+
+ 
+
+The ICON Direct program will be used to provide required course materials via your ICON course site. Your U-Bill will be charged automatically after your course has started, unless you opt out prior to the last day for tuition and fee reduction course deadline Links to an external site.. Specific opt out information will be provided in the course syllabus and in the opt out tool .
+
+ 
+
+Material to be covered
+
+We will cover Chapters 1-6 of the textbook. Some sections will be omitted.
+
+Chapter 1. (1- 5) Review pre-calc: basic properties of a list of functions studied in the course including exponential, logarithmic and inverse functions.
+
+ 
+
+Chapter 2. (1-8) Limits, one-side limits, infinite limits and limits to infinity. Vertical and horizontal asymptotes. Precise definition of limits and continuous functions. Using Intermediated Value Theorem to approximate roots. Tangent lines and derivatives.
+
+Chapter 3. (1-11) Differentiation. Product, quotient and chain rules. Implicit differentiation. Linear approximation. Related rates and exponential growth. Hyperbolic functions.
+
+ 
+
+Chapter 4. (1-5, 7-9) Extreme values. Monotonicity, concavity and graphing of functions. Mean Value Theorem and L'Hospital's Rule. Optimization and Newton's method. Antiderivatives
+
+ 
+
+Chapter 5. (1-5) Riemann integrals and approximations of integrals by midpoint rule etc. Fundamental Theorem of Calculus and substitution rule. Indefinite integrals.
+
+ 
+
+Chapter 6. (1-5) Areas and volumes of revolution. Work and average value of function if time allows.
+
+ 
+
+ 
+
+Grading System and the Use of +/-
+With criterion-reference grading, students receive grades based on the quality of their work in relation to the criteria defined by the instructor and by the rubrics or models specifying the qualities of each grade.  The cut scores (e.g. 90 for A-) will never go up, but they may go down for some exams, and each exam will be treated separately.  We will start with the following ranges:
+
+ 
+
+A                     B                     C                     D                     F       
+
+A+ [97,100]   B+ [80,90)     C+ [65,70)     D+ [45,50)     F [0,40)
+
+A   [90,97)     B   [75,80)     C   [55,65)     D   [40,45)
+
+A-  [85,90)     B-  [70,75)     C-  [50,55)     D-  [35,40)
+
+ 
+
+Course Grades
+
+Final course grades will be assessed based on your performance in the following activities:
+
+ 
+
+10% Top Hat participation/scores  - for information about Top Hat, see insert on last page
+
+20% WeeklyQuizzes; (Most Thursdays); drop the lowest two scores
+
+20% Exam 1 – Oct 1st, 6:30pm 90-min,   location TBA
+
+20% Exam 2 -- Nov 5th, 6:30pm 90-min, location TBA
+
+30% Final Exam (date, time, and place TBA; during finals week; 120-min)
+
+ 
+
+·       Calculators: You may not use a calculator during tests (and we encourage you not to use one while doing homework).
+
+ 
+
+·       Top Hat: Please be aware that to master the skills needed for this class, practice is required, and that to do well on quizzes and exams you will need to work many of these problems multiple times without help. Class participation (when you’ll have the opportunity to practice, in class, a diverse set of problems) would be tracked through Top Hat.
+
+ 
+
+·       Homework: The homework for this course is designed to help you master your knowledge related to the topics covered during lecture. As such, you may work on the homework problems with others or use online resources. However, be sure to test your knowledge by doing much of the homework on your own. Homework will neither be collected nor graded, but will tested through Quizzes and Exams. Make sure you check your results for correctness. All other graded work for this class (quizzes and exams) must be completed individually and any form of cheating will be reported. Please read the student collaboration rules above.
+
+ 
+
+·       Quizzes: To ensure that students are completing the course readings and understanding the material, regular quizzes covering the topic from the homework of the previous week will be administered every Thursday, in class, during discussion section. The quizzes will be worth 10 points each.
+
+ 
+
+·       Exams: The exams will test student’s knowledge of basic concepts, terms, and general trends discussed in the course. Study guides will be posted on ICON at least a week before the exam. Suggested study techniques for the exam are for the student to complete all the assigned readings for the exam and then to use course notes to be sure that they are familiar with all the terms and concepts outlined on the study guide. The exams may have open-solution problems and multiple-choice problems. Information on each exam structure will be provided when the study guide for the exam is posted on ICON.  All exams are comprehensive, unless specified otherwise.
+
+ 
+
+ 
+
+ 
+
+TENTATIVE TIMETABLE (Subject to change, and all changes will be announced in class, or posted on the course webpage, or e-mailed to your UI e-mail.)
+
+Week 1: Review and sections 1.1-1.5
+
+Week 2: Sections 2.1-2.3
+
+Week 3: Sections 2.4-2.6
+
+Week 4: Sections 2.7,2.8,3.1
+
+Week 5: Section 3.2-3.4
+
+Week 6: Midterm review. Sections 3.5, 3.6
+
+Week 7: Section 3.7-3.10
+
+Week 8: Sections 4.1-4.3
+
+Week 9: Sections4.4-4.6
+
+Week 10: Sections 4.7-4.9
+
+Week 11: Midterm Review. Sections 5.1
+
+Week 12: Sections 5.2-5.3
+
+Week 13: Sections 5.4-5.5
+
+Week 14:  Sections 6.1-6.3
+
+Week 15: Sections 6.4, 6.5,  Review, Practice for the final exam
+
+ 
+
+Date and Time of the Final Exam
+The final examination date and timeLinks to an external site. will be announced by the Registrar generally by the fifth week of classes, and it will be announced on the course ICON site once it is known. Do not plan your end of the semester travel plans until the final exam schedule is made public. It is your responsibility to know the date, time, and place of the final exam. According to the Registrar's final exam policy, students have a maximum of two weeks after the announced final exam schedule to request a change if an exam conflict exists or if a student has more than two exams scheduled for the same day (see the policyLinks to an external site. here).
+
+ 
+
+Attendance and Absences
+
+n  Attendance is expected for each class meeting, as it will help you better understand the concepts covered in lectures. If you miss a class, you are responsible for any assignments/announcements made/material covered.
+
+n  We strongly encourage you to actively participate in class discussions; ask questions or
+
+ask for more explanations whenever you feel confused!
+
+ 
+
+University regulations require that students be allowed to make up examinationsLinks to an external site. that have been missed due to illness, religious holy days, military service obligations (including service-related medical appointments), or other unavoidable circumstances or University-sponsored activities. Students with UI-authorized activities must discuss their absences with the instructor as soon as possible. Religious obligations must be communicated within the first three weeks of classes.
+
+ 
+
+Other Expectations of Student Performance
+There is a general expectation that all students will abide by the civil behavior and avoid any disturbances of the class. This requirement includes disturbances for those involving technology, which can distract those students sitting by the user. Please remember: all students have the right to a distraction-free learning environment. Students are expected to help each other learn and to contribute to the overall learning environment of the course. Arriving prepared for class is part of this expectation.
+
+ 
+
+Communication: UI Email
+
+Students are responsible for all official correspondences sent to their UI email address (uiowa.edu) and must use this address for any communication with instructors or staff in the UI community. For the privacy and the protection of student records, UI faculty and staff can only correspond with UI email addresses.
+
+ 
+
+Where to Get Academic Support for this Course
+Generally, for each lecture you should spend at least two-three hours on reading/homework/repeating the material. You should start working over the homework problems right after the relevant sections are covered. If you encounter difficulties, we strongly recommend you seek help immediately! Do not postpone it until one day before the exam! Also, remember this: small deficiencies at the beginning tend to rapidly grow into big ones.
+
+·      You are always welcome to come to our office hours. You may also make an appointment.
+
+·      Your TA also has office hours.
+
+·      Another excellent resource is the Math Lab is located in 125 MLH. It is staffed by very knowledgeable math graduate students. Math Lab services are FREE.
+
+For more information and hours, please go to
+
+ https://math.uiowa.edu/undergraduate/tutoring/math-tutorial-labLinks to an external site.
+
+ 
+
+ 
+
+Mental Health Resources and Student Support
+
+Students are encouraged to be mindful of their mental health and seek help as a preventive measure or if feeling overwhelmed and/or struggling to meet course expectations. Students are encouraged to talk to their instructor for assistance with course-related concerns. For additional mental health support, please see the guidance and resources at mentalhealth.uiowa.eduLinks to an external site., including the 24-7 UI Support and Crisis LineLinks to an external site.. 
+
+ 
+
+Additionally, the Office of the Dean of Students can help students navigate personal crisis situations. They can provide one-on-one support, help with identifying options, and access to basic needs resources (such as food, rent, childcare, etc.)Links to an external site.. Student Care and Assistance: 132 IMU, dos-assistance@uiowa.edu, or 319-335-1162 and more info: dos.uiowa.edu/assistanceLinks to an external site. 
+
+University PoliciesLinks to an external site.
+
+ 
+
+Accommodations for Students with DisabilitiesLinks to an external site.
+
+The University is committed to providing an educational experience that is accessible to all students. If a student has a diagnosed disability or other disabling condition that may impact the student’s ability to complete the course requirements as stated in the syllabus, the student may seek accommodations through Student Disability ServicesLinks to an external site. (SDS). SDS is responsible for making Letters of Accommodation (LOA)Links to an external site. available to the student. The student must provide an LOA to the instructor as early in the semester as possible, but requests not made at least two weeks prior to the scheduled activity for which an accommodation is sought may not be accommodated. The LOA will specify what reasonable course accommodations the student is eligible for and those the instructor should provide.
+
+ 
+
+Free Speech and ExpressionLinks to an external site.
+
+Absences for Religious Holy DaysLinks to an external site.
+
+Classroom ExpectationsLinks to an external site.
+
+Non-discriminationLinks to an external site.
+
+Sexual Harassment/Misconduct and Supportive MeasuresLinks to an external site.
+
+Sharing of Class RecordingsLinks to an external site. (if appropriate)
+
+ 
+
+ 
+
+About Top Hat:
+
+"In addition to using Canvas as our Learning Management System, we will be using Top Hat (https://tophat.comLinks to an external site.) for class participation. Top Hat is an educational platform that integrates interactive features into learning materials, enhancing class engagement and comprehension. 
+
+For instructions on how to download the Top Hat app, please refer to our Student's Getting Started Guide online.
+
+n    Getting Started: Firstly, your Canvas account role must be "Student", you can verify this in the "People" menu in Canvas under the header "Role". If your role is listed as anything other than student, your grades will not sync to Canvas from Top Hat. To correct this, please connect directly with your educator (Top Hat cannot change this role). 
+
+n    Enrolling into your course: Do not enroll into the Top Hat course directly. To enroll correctly into your course, you must click the Top Hat Link on the left side of your course in Canvas. Locate the link "Top Hat" or "Top Hat LTI 1.3" or "Launch Link" in your Canvas course. Pressing the Top Hat link in Canvas directly will also ensure you are enrolled into the correct course or course section in Top Hat.
+
+Once you have clicked the Top Hat link in Canvas, you will be directed to Top Hat automatically (turn off any pop-up blockers). You will have the option to either create a student account or log in to an existing Top Hat account. If you are signing up for Top Hat the first time, please use your official school email address and use a web browser to complete the process.
+
+Important! Use your school issued email address to create your Top Hat account
+
+n  Please note you cannot create a Top Hat account or make the required course purchases through the mobile applications. You may see the message "Account not active or Additional Materials Required" when attempting to enroll in the Top Hat Course via the mobile app. To resolve this, please first enroll and purchase the required content (when prompted) on a web browser (Google Chrome or Firefox is recommended for the best experience). 
+
+n  Once you have successfully linked your Canvas and Top Hat account, you may log-in and access Top Hat directly using the mobile application.
+
+n  If you do not click the Top Hat link: You will be shown a pop-up message in Top Hat instructing you to do so (web browser only)
+
+n  You will be removed from the Top Hat course during the nightly roster sync (if you enrolled in Top Hat directly, which we don't advise!)
+
+If you're removed from the Top Hat course, please review the above steps again. 
+
+https://support.tophat.com/s/article/Student-LTI-Course-Enrollment-CanvasLinks to an external site.
+
+n  Grade syncs from Top Hat to Canvas:
+
+Grade sync settings are determined by your course educator. For clarification on when to expect your grades to appear in Canvas, please connect with your educator directly. 
+
+n  Some helpful Top Hat lingo to know:
+
+Join Code / JC : The unique 6 digit code specific to your Top Hat course. (Top Hat Support will ask for this when you reach out!)
+
+LMS: Learning Management System (Canvas, Blackboard, D2L...).
+
+Course Content: Anything in your course such as questions, readings, exams, assignments, presentations, discussions...).
+
+Top Hat Access Key: A unique code issued by Top Hat to redeem on your account for a specific product such as an eTextbook (purchased through an external vendor only). Purchases made directly on Top Hat will be applied to your account. No codes or access keys are provided by Top Hat if buying on Top Hat directly)
+
+Bookstore Redemption Code: Purchased through your campus bookstore and is valid for a Top Hat product such as an eTextbook, which must first be exchanged for a Top Hat Access Key (typically completed on the campus bookstore website) before redeeming it on the Top Hat course check-out page. 
+
+Secure Attendance: Requires you to confirm your device location within proximity to the classroom.
+
+Homework: Submissions are saved and graded.
+
+Review: Submissions are not saved and not graded. Intended for revision purposes. 
+
+Contact Top Hat Support: 
+
+Press "?" in your app or upper right corner of your screen or visit our Support Site Articles: https://support.tophat.com/s/Links to an external site.
+
+Through our contact form: https://success.tophat.com/s/contact-mainLinks to an external site.
