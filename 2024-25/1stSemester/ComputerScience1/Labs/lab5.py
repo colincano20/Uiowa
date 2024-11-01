@@ -134,6 +134,6 @@ def cntDiff(S1, S2):
     elif len(S2) ==0:
         return(len(S1))
     elif S1[0].lower() == S2[0].lower():
-        return(cntDiff(S1[1:], S2[1:]
-            finish it 10-9
+        return(cntDiff(S1[1:], S2[1:]))
+    return(1+min(cntDiff(S1[1:], S2[1:]), cntDiff(S1, S2[1:]), cntDiff(S1[1:], S2[1:])))
 
