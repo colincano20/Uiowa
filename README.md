@@ -3,6 +3,8 @@
 
 Just gonna be everything i do from class and hopefully keep updated.
 
+I HATE COMP SCI
+
 cd Uiowa
 
 git add .
