@@ -68,7 +68,13 @@ def insort(L):
                 x = L.pop(i)
                 L[:] = L[:j] + [x] + L[j:]
                 break
-        
+def insort2(L):
+    for i in range(1,len(L)):
+        j = 0
+        while j < i and L[j] < L[i]:
+            j += 1
+        L[i:i+1], L[j:j] = [], [L[i]] #swap
+
 # L = [3, 2, 7, 5, 0, 1, 4, 6]
 # insort(L)
 # # print(L)
@@ -115,5 +121,22 @@ def msort(L):
         return L
 
     return merge(msort(L[:len(L)//2]), msort(L[len(L)//2:]))
+def msort2(L):
+    def merge(L1, L2):
+        result = []
+        i = j = 0
+        while i < len(L1) and j < len(L2):
+            if L1[i] < L2[j]:
+                result.append(L1[i])
+                i = i+1
+            else:
+                result.append(L2[j])
+                j = j+1
+        return(result + L1[i:] + L2[j:])
+    if len(L) < 2:
+        return(L)
+    return(merge(msort(L[:len()//2]), msort(L[len(L)//2:])))
+
+    
 
 # print(msort([9, 3, 5, 7, 2, 6, 1, 0, 4]))  
