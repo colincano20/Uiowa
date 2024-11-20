@@ -1,13 +1,137 @@
 Total Grades
-35 / 35
-Participation18 / 18
-Correctness17 / 17
+60.50 / 60.50
+Participation 31/31
+Correctness 29.5/29.5
 Attendance
-2 / 2
+4/4
 
 Graded Submissions
 All 37 rows displayed
 Date Posted	Title	Answer	Grade
+Fri Nov 15 2024	
+Attendance asked Nov 15, 2:09 PM
+Attended
+1/1
+Wed Nov 13 2024	
+Question 2 Nov 13
+find the integral of x^2-2x+1 where x is from 1 to 4
+9
+1/1
+Question 1 Nov 13
+What is the integral of x^3 from 0 to 10?
+2500
+1/1
+Mon Nov 11 2024	
+Question 2, November 11
+What’s the anti-derivative of sin x?
+B - -cos x
+1/1
+Question 1,  November 11
+What’s the anti-derivative of function x?
+B - x^2/2
+1/1
+Fri Nov 08 2024	
+Attendance asked Nov 8, 2:12 PM
+Attended
+1/1
+Wed Nov 06 2024	
+Question 2 November 6
+If a chunk of wood has height 5 ft, and each horizontal slice has area 10 ft^2, what is its volume in ft^3?
+50
+1/1
+Question 1 November 6
+If a triangle  has a base length 6 and height 4, what is its area?
+12
+1/1
+Fri Nov 01 2024	
+Question 1 November 1
+For function f(x)=2x2/(x2-1), how many connected components does its domain has?
+C - 3
+1/1
+Question 2 November 1
+For function f(x), if f’(2)=0,f”(2)=3, then
+
+B - 2 is a local minimal point
+1/1
+Wed Oct 30 2024	
+Question 1, October 28
+If we want to make a rectangle shape garden near a straight river, using 24 meters worth of fence, what is the largest area of the garden (in square meters)?
+72
+1/1
+Mon Oct 28 2024	
+Question 2, October 28
+Find the shortest distance from the origin to the straight line 3x+4y=10
+2
+1/1
+Fri Oct 25 2024	
+Question 2 October 25
+When x approaches 0, find the limit of (1/x)-(1/tan x)
+-1
+1/1
+Question 1, October 25
+Use the L'Hospital Rule to compute the limit of (1+x)10/x, when x approaches 0 from the right.
+22026.5
+1/1
+Question 3, October 23
+Find the limit of xx  when x>0 and x approaches 0
+1
+1/1
+Wed Oct 23 2024	
+Question 4, October 23
+Find the limit  of (ex-1-x)/x2, when x approaches 0.
+0.5
+1/1
+Question 1, October 23
+Find the limit of (sin x)2/(1-cos x), when x approaches 0
+2
+1/1
+Question 2, October 23
+Find the limit of ​[exp (x)-1]/( sin x) when x approaches 0
+A - 1
+1/1
+Mon Oct 21 2024	
+Question 3 October 21
+If f(1)=2 and f(2)=3, and f"(x)>0 for x in (1,2). Then what is the maximal value of  f in ​[1,2]?
+3
+1/1
+Question 2, October 21
+For function f(x), if f'(1)=0 and f"(1)=0, then
+C - uncertain
+1/1
+Question 1, October 21
+For function f(x). If f'(1)=0 and f"(1)=2, then
+B - 1 is a local minimal point of f
+1/1
+Fri Oct 18 2024	
+Question 2, October 18
+If two differentiable  functions f(x) and g(x) satisfy f'(x)=g'(x), then
+C - There exists a constant C such that f(x)-g(x)=C
+0.5/0.5
+Question 3 October 18
+If f'(x)<=10 and f(0)=0, what is the largest possible value of f(10)?
+100
+1/1
+Question 1, October 18
+Find the approximate value of f(0.1), where f(x)=e2sin(x)
+1.2
+1/1
+Wed Oct 16 2024	
+Question 4, October 16.
+Use the linear approximation to compute the square root of 100.4
+10.02
+1/1
+Question 3, October 16
+Find the minimal value of the function cosh (x):=(ex+e-x)/2
+1
+1/1
+Question 2. October 16
+Find the maximum value of the function 1/(x^2+2x+5)
+0.25
+1/1
+Question 1, October 16
+Find the critical point( number) of the function x-arctan x 
+0
+1/1
 Mon Oct 14 2024	
 Question 3, October 14
 For x in ​[2,3], find the maximal value of x(2-x)
