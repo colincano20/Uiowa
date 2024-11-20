@@ -46,7 +46,7 @@ def signed():
 # direction in which you read the backbone.
 #
 def revComp(S):
-    D = { 'A':'T', 'C':'G', 'G':'C', 'T': 'A'}
+    D = { 'A':'T', 'C':'G', 'G':'C', 'T': 'A'} #constant time
     if len(S) == 0:
         return ""
     return revComp(S[1:]) + D[S.upper()[0]]
@@ -55,3 +55,12 @@ print(revComp('aaaatttggc'))
 print(revComp('acttgagtc'))
 print(revComp('acgt'))
 print(revComp("AACGGTAT"))
+
+def revComp2(S):
+    if S == '':
+        return ''
+    return(revComp2(S[1:]) + 'ACGT'['tgca'.index(S[0].lower())]) #scan left to right till find first copy of S[0], order N
+print(revComp2('aaaatttggc'))
+print(revComp2('acttgagtc'))
+print(revComp2('acgt'))
+print(revComp2("AACGGTAT"))
