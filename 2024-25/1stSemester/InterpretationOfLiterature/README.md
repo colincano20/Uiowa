@@ -1,4 +1,4 @@
-# Computer-Science-1
+# The Interpretation of Literature
 
 **Professor: Conor Hilton**
 
