@@ -25,9 +25,6 @@ def comboSum(N,B,R=()):
 #Once B is empty (not B), the base case is triggered, ensuring no infinite recursion. When the first element of B is included (N - B[0]), the value of N decreases.
 #If N becomes less than 0, the base case (N < 0) ensures termination.
 print(comboSum(10, [5, 3, 2]))
-
-
-
 '''
 2. Fill in the Blank
 Dictionaries, Lists, and Sets are mutable,
@@ -82,7 +79,6 @@ round find max → after flip1 → after flip2
 Note that for a stack of N pancakes, you will perform these operations N-1 times, resulting in 2(N-1) flips,
 just a few more flips than Gates’ and Papadimitriou’s theoretically optimal 1.67*N flips.
 2 Revised December 5, 2024
-
 '''
 
 
@@ -134,8 +130,8 @@ def uniquify(L):
     '''
    
    #return list((set(L)))
-#print(uniquify( [ 1, 2, 3, 2, 4, 2, 3, 5,69] ))
-#print(uniquify(list('substitute')))
+print(uniquify( [ 1, 2, 3, 2, 4, 2, 3, 5,69] ))
+print(uniquify(list('substitute')))
 
 '''
 5. Increasing Circular Sequences

@@ -58,5 +58,20 @@ def rom2int(R):
         previous = Dict[i] #marks index as previous
     return total
 
+
+def rom2int2(R):
+    romDict = { 'M': 1000, 'D': 500, 'C': 100, 'L': 50, 'X': 10, 'V': 5, 'I': 1 } #dictionary
+    total =0
+    for i in range(len(R)):
+        if i < len(R)-1:
+            if romDict[R[i]] < romDict[R[i+1]]:
+                total -= rom2int2[R[i]]
+                continue  #we do not wanna add
+        total += romDict[R[i]]
+    return total
+
+
+
+print(rom2int2("MCCX"))
 print(rom2int("MCCX"))
 print(rom2int("MCMXCIV"))

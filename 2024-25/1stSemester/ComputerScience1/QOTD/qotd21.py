@@ -46,6 +46,7 @@ values = {'M':1000, 'CM':900, 'D':500, 'C':100, 'XC':90, 'L':50, 'X':10, 'IX':9,
 #
 def rom2int(R):
     global values
+    print(R)
     if len(R) == 0: 
         return 0 
     if len(R) > 1 and R[:2] in values: 
