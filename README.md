@@ -1,16 +1,18 @@
-# Uiowa
+# University of Iowa Schoolwork📚
 
+**Welcome to my repository containing all my schoolwork throughout university!**
 
-Just gonna be everything i do from class and hopefully keep updated.
+This repository includes assignments, projects, labs, and notes from various courses during my academic journey. The goal is to showcase progress, problem-solving, and skills developed over time.
 
-I HATE COMP SCI
+---
 
-cd Uiowa
+## 🗂 About This Repository  
 
-git add .
+This repository is a collection of coursework completed throughout my university education. It includes:  
+- Programming assignments  
+- Lab exercises  
+- Course notes  
+- Group projects  
 
-git commit -m "Initial folder structure"
-
-git push origin main
-
+Each folder corresponds to a specific course or topic, making navigation easy and organized.  
 
