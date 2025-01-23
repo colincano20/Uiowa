@@ -28,4 +28,6 @@ Below is a list of courses with their respective sessions:
 | CCP:3103     | [MoneyWise](https://github.com/colincano20/Uiowa/tree/main/2024-25/1stSemester/Moneywise)        | Fall 2024   |
 | MATH:1860    | [Calculus 2](https://github.com/colincano20/Uiowa/tree/main/2024-25/2ndSemester/Calculus2)        | Spring 2025   |
 | CS:2230      | [Computer Science 2: Data Structures](https://github.com/colincano20/Uiowa/tree/main/2024-25/2ndSemester/ComputerScience2-DataStructures)     | Spring 2025   |
+| CS:2210      | [Discrete Structures](https://github.com/colincano20/Uiowa/tree/main/2024-25/2ndSemester/DiscreteStructures)     | Spring 2025   |
+| RHET:1030    | [Rhetoric](https://github.com/colincano20/Uiowa/tree/main/2024-25/2ndSemester/Rhetoric)     | Spring 2025   |
 
