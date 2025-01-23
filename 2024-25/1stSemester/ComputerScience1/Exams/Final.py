@@ -127,7 +127,7 @@ class mset:
     """
     def __repr__(self):
         # User's Answer:
-        return(set(L))  # Replace with your answer
+        return(set())  # Replace with your answer
 
     """
     Question 5.3: __contains__(self)
