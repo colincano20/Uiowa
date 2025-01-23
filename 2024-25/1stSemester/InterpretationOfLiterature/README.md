@@ -1,7 +1,9 @@
 # The Interpretation of Literature
 
 **Professor: Conor Hilton**
-Class code: ENGL:1200
+
+## Class code: ENGL:1200
+
 ## Course Description (MyUI):
 This course will explore the intersections of literature and community across time, space, genre, and a variety of demographics. Our discussions will be animated by questions such as, “What do we owe each other?”, “how do we build and create community?”, and “how do we balance individuality and interdependence?”.
 
