@@ -1,0 +1,76 @@
+Course Details
+Instructor: Kevin Wang
+Email: kevin-wang@uiowa.edu
+Office Location: B12 MLH
+Office Hours:
+Tuesday & Wednesday: 3:30–4:30 PM
+Friday: 2:30–3:30 PM
+By appointment if needed
+Course Supervisor: Dr. Xiaoyi Zhang (xiaoyi-zhang@uiowa.edu)
+Class Schedule: MTWTh 2:30–3:20 PM, Room 25 PH
+ICON (Online Course Site): Access via Hawk ID
+Prerequisites
+MATH:1550 (minimum grade C-) or
+MATH:1850 (minimum grade C-) or
+MPT Level 3 score of 15+
+Course Topics
+Integration Techniques: By parts, trigonometric integrals/substitutions, partial fractions, improper integrals
+Applications: Arc length, surface areas, physics, engineering, biology, probability
+Differential Equations: Modeling, Euler’s method, separable equations, population growth, predator-prey systems
+Parametric & Polar Coordinates: Curves, conic sections
+Sequences & Series: Convergence tests, power series, Taylor series
+Required Materials
+Textbook: Single Variable Calculus: Early Transcendentals (9th Edition)
+Authors: James Stewart, Daniel K. Clegg, Saleem Watson
+Publisher: Cengage, ISBN: 9780357022269
+Grading Policy
+Category	Percentage
+In-class Activities	10%
+Homework	20%
+Exam 1	20%
+Exam 2	20%
+Final Exam	30%
+Grade Scale:
+A: 93%+, A-: 90-92%
+B+: 87-89%, B: 83-86%, B-: 80-82%
+C+: 77-79%, C: 73-76%, C-: 70-72%
+D+: 67-69%, D: 63-66%, D-: 60-62%
+F: Below 60%
+Homework & In-Class Activities
+Homework:
+Assigned Thursdays, due the following Thursday on Gradescope
+Graded on completion & correctness
+Late submissions: Accepted up to one week late with a 20% penalty
+Lowest score dropped
+In-class Activities:
+Weekly (except exam weeks), graded by effort
+Submit via Gradescope within one week
+Exam Dates
+Exam 1: February 27 (in class)
+
+Exam 2: April 10 (in class)
+
+Final Exam: Week of May 12 (Time & location TBA)
+
+Exam Rules:
+
+Closed-book, but one 8.5"x11" notes sheet and scientific calculator allowed
+Makeup exams allowed for excused absences (illness, religious holidays, university activities, etc.)
+Attendance & Policies
+Attendance Expected: Stay up to date with assignments
+Collaboration Encouraged: But write solutions in your own words
+Academic Integrity: Cheating = Academic Misconduct
+Drop Deadline: Check UI registrar website
+Resources
+Math Lab (125 MLH): Free drop-in tutoring available
+Mental Health & Student Support:
+University Counseling Services: counseling.uiowa.edu
+Student Care & Assistance: dos.uiowa.edu/assistance
+Disability Accommodations: Contact Student Disability Services (SDS)
+Course Schedule Highlights
+Integration (Weeks 1-3)
+Applications & Differential Equations (Weeks 4-8)
+Sequences & Series (Weeks 9-11, Exam 2)
+Taylor Series & Parametric Equations (Weeks 12-13)
+Polar Coordinates & Conic Sections (Weeks 14-15)
+Final Exam Review & Finals Week
