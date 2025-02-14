@@ -3,7 +3,7 @@
 // You can comment it while you work on the problem
 // When everything works - uncomment and submit!
 //
-package com.gradescope.lab3;
+//package com.gradescope.lab3;
 
 /* Lab 3
 
