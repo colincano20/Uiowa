@@ -16,7 +16,7 @@ This repository is a collection of coursework completed throughout my university
 
 Each folder corresponds to a specific course or topic, making navigation easy and organized.  
 
-# Courses and Projects
+# Courses
 
 Below is a list of courses with their respective sessions:
 
