@@ -1,0 +1,18 @@
+---
+:id: 320482851
+:submitters:
+- :name: Aharon Zingman
+  :email: aharon-zingman@uiowa.edu
+- :name: Tyler Kennedy
+  :email: tyler-j-kennedy@uiowa.edu
+- :name: Colin Cano
+  :email: colin-cano@uiowa.edu
+- :name: Sam Erickson
+  :email: sam-erickson@uiowa.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-03-27 22:51:25.846465000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-03-27 15:51:25.846465000 Z
+:status: processed
+:score: 9.5
