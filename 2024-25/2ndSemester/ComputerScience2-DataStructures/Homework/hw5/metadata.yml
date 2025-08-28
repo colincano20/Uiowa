@@ -1,0 +1,12 @@
+---
+:id: 325372805
+:submitters:
+- :name: Colin Cano
+  :email: colin-cano@uiowa.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-04-15 02:54:21.056721000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-04-14 19:54:21.056721000 Z
+:status: processed
+:score: 24.5

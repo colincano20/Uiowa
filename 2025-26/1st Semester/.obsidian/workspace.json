@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "28aff690d69b92b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ee3d3c5212eddbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d55ce1c33e26d66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ghostly Japan/Notes/Ghostly Japan – Week 1 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ghostly Japan – Week 1 Notes"
+            }
+          },
+          {
+            "id": "7a51faa6eeaaf576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Software Development/Notes/Introduction (Lecture 1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction (Lecture 1)"
+            }
+          },
+          {
+            "id": "cddfeb6afba74568",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
+            "id": "1cab5e7cff91fae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ghostly Japan/Notes/Ghostly Japan – Week 1 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ghostly Japan – Week 1 Notes"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15544530c32588df",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a66683dbe000fba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "253d0ec34b3257b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f695ce8bb53efe2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ddaaa2a8911d632d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2d6c871026abe80e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3be70b13dbb2c3cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab55e13d9b36069b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introduction to Software Development/Notes/Introduction (Lecture 1).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduction (Lecture 1)"
+            }
+          },
+          {
+            "id": "9140777e5740c593",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introduction to Software Development/Notes/Introduction (Lecture 1).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introduction (Lecture 1)"
+            }
+          },
+          {
+            "id": "7899ea26f755233f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bb1a54f022b1b6cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introduction to Software Development/Notes/Introduction (Lecture 1).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introduction (Lecture 1)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1cab5e7cff91fae9",
+  "lastOpenFiles": [
+    "Fundamental Astronomy 1/Notes/8-25.md",
+    "Introduction to Software Development/Notes/Introduction (Lecture 1).md",
+    "Ghostly Japan/Notes/Ghostly Japan – Week 1 Notes.md",
+    "Fundamental Astronomy 1/Notes/8-27.md",
+    "Pasted image 20250827095951.png",
+    "Fundamental Astronomy 1/Notes",
+    "Ghostly Japan/Notes",
+    "Introduction to Software Development/Notes",
+    "Pasted image 20250826102406.png"
+  ]
+}
